@@ -96,3 +96,4 @@ While in chat mode, you can use the following commands:
 ## License
 
 MIT
+# gemi
